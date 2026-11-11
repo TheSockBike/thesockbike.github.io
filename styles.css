@@ -104,3 +104,11 @@
     display: none;
   }
 }
+
+/* Hide extra hero text on mobile only */
+@media (max-width: 720px) {
+  .hero-note,
+  .hero-bottom {
+    display: none;
+  }
+}
