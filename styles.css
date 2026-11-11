@@ -97,14 +97,13 @@
   .value-inner span { font-size: 8px; }
   .hero-bottom { font-size: 7px; }
   .donate-copy .button { max-width: 100%; gap: 12px; }
-
+}
 /* Hide hero subtitle and line on mobile only */
 @media (max-width: 720px) {
   .hero-content .eyebrow {
     display: none;
   }
 }
-
 /* Hide extra hero text on mobile only */
 @media (max-width: 720px) {
   .hero-note,
