@@ -131,3 +131,7 @@
     margin-bottom: 40px;
   }
 }
+
+.value-strip {
+  display: none !important;
+}
