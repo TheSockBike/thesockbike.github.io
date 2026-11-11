@@ -124,3 +124,10 @@
 .activities-section {
   display: none;
 }
+
+@media (max-width: 720px) {
+  .hero-art {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+}
