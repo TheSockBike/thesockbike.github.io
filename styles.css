@@ -150,3 +150,7 @@
   display: none !important;
 }
 
+.footer-legal span:last-child {
+  display: none;
+}
+
