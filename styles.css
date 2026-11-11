@@ -161,4 +161,25 @@
     #dceef5 100%
   );
 }
+/* Progressive blue backgrounds */
 
+.mission-section {
+  background: linear-gradient(
+    180deg, #f1f8fa, #eaf5fa
+  );
+}
+
+.approach-section {
+  background: linear-gradient(
+    180deg, #eaf5fa, #d6ebf5
+  );
+}
+
+.donate-section {
+  background: linear-gradient(
+    180deg, #d6ebf5, #bddeed
+  );
+}
+
+
+ Copy code
