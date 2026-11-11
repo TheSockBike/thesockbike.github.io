@@ -119,3 +119,8 @@
     display: none;
   }
 }
+
+/* Hide the entire activities/photos section */
+.activities-section {
+  display: none;
+}
