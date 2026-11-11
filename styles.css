@@ -202,3 +202,14 @@
 .donate-section {
   border-top: 6px solid #ffffff;
 }
+/* Align navigation links with section boundaries */
+html {
+  scroll-padding-top: 0;
+}
+
+#mission,
+#activities,
+#donate,
+#contact {
+  scroll-margin-top: 0;
+}
