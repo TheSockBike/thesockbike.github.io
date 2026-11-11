@@ -183,3 +183,22 @@
 
 
  Copy code
+   /* Three distinct blue sections */
+
+.mission-section {
+  background: linear-gradient(135deg, #f3f9fc, #eaf5fa);
+}
+
+.approach-section {
+  background: linear-gradient(135deg, #e2f1f8, #d4eaf5);
+}
+
+.donate-section {
+  background: linear-gradient(135deg, #cfe7f3, #b9dbea);
+}
+
+/* Clear visual separation */
+.approach-section,
+.donate-section {
+  border-top: 6px solid #ffffff;
+}
