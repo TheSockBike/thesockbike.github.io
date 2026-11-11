@@ -134,3 +134,15 @@
 .strip-star {
   display: none !important;
 }
+   
+.strip-star {
+  display: inline-block !important;
+  font-size: 0 !important;
+}
+
+.strip-star::after {
+  content: "•";
+  font-size: 16px;
+  color: #8AC7E3;
+}
+
