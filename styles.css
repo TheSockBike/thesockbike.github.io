@@ -153,4 +153,12 @@
 .footer-legal span:last-child {
   display: none;
 }
+   .mission-section {
+  background: linear-gradient(
+    135deg,
+    #f1f8fa 0%,
+    #e8f4f8 55%,
+    #dceef5 100%
+  );
+}
 
