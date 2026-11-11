@@ -104,6 +104,7 @@
     display: none;
   }
 }
+
 /* Hide extra hero text on mobile only */
 @media (max-width: 720px) {
   .hero-note,
